@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" preserveAspectRatio="xMidYMid slice">
+  <rect x="0" y="0" width="800" height="600" fill="#f7dde5"/>
+
+  <ellipse cx="400" cy="452" rx="230" ry="34" fill="#c97f97" opacity="0.35"/>
+  <ellipse cx="400" cy="432" rx="225" ry="58" fill="#ffffff"/>
+  <ellipse cx="400" cy="424" rx="205" ry="46" fill="#f4e3c8"/>
+
+  <!-- left muffin -->
+  <path d="M 245 380 L 265 320 L 335 320 L 355 380 Z" fill="#e39ab0" stroke="#3b2b30" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 268 380 L 280 322 L 290 322 L 280 380 Z" fill="#c97f97"/>
+  <path d="M 315 380 L 320 322 L 330 322 L 322 380 Z" fill="#c97f97"/>
+  <path d="M 258 328 Q 300 280 342 328 Q 350 350 335 358 Q 300 372 265 358 Q 250 350 258 328 Z" fill="#7b4b2a" stroke="#3b2b30" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 278 316 Q 300 306 322 316" fill="none" stroke="#3b2b30" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 270 336 Q 290 330 300 340" fill="none" stroke="#3b2b30" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="292" cy="304" rx="10" ry="6" fill="#ffffff" opacity="0.6"/>
+
+  <!-- right muffin -->
+  <path d="M 460 384 L 480 322 L 552 322 L 572 384 Z" fill="#e39ab0" stroke="#3b2b30" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 484 384 L 496 324 L 506 324 L 496 384 Z" fill="#c97f97"/>
+  <path d="M 532 384 L 537 324 L 547 324 L 539 384 Z" fill="#c97f97"/>
+  <path d="M 474 330 Q 516 280 560 330 Q 568 353 553 361 Q 516 376 480 361 Q 465 353 474 330 Z" fill="#7b4b2a" stroke="#3b2b30" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 496 318 Q 516 308 538 318" fill="none" stroke="#3b2b30" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 526 340 Q 542 334 550 344" fill="none" stroke="#3b2b30" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="508" cy="306" rx="10" ry="6" fill="#ffffff" opacity="0.6"/>
+
+  <!-- front muffin, split open showing fudgy core -->
+  <path d="M 350 452 L 372 380 L 428 380 L 450 452 Z" fill="#e39ab0" stroke="#3b2b30" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M 376 452 L 386 384 L 396 384 L 388 452 Z" fill="#c97f97"/>
+  <path d="M 404 452 L 410 384 L 420 384 L 414 452 Z" fill="#c97f97"/>
+
+  <path d="M 366 386 Q 375 332 400 322 Q 401 355 396 386 Z" fill="#7b4b2a" stroke="#3b2b30" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 434 386 Q 425 332 400 322 Q 399 355 404 386 Z" fill="#7b4b2a" stroke="#3b2b30" stroke-width="3" stroke-linejoin="round"/>
+
+  <path d="M 396 386 Q 400 356 404 386 Q 408 400 400 406 Q 392 400 396 386 Z" fill="#3b2b30"/>
+  <path d="M 392 388 Q 400 372 408 388 Q 406 396 400 397 Q 394 396 392 388 Z" fill="#8a5a68"/>
+  <path d="M 383 340 Q 392 330 400 336 Q 396 344 388 344 Q 384 344 383 340 Z" fill="#d9a066" opacity="0.85"/>
+  <path d="M 412 336 Q 418 330 424 338 Q 419 344 413 342 Q 411 340 412 336 Z" fill="#d9a066" opacity="0.85"/>
+
+  <ellipse cx="380" cy="316" rx="7" ry="5" fill="#ffffff" opacity="0.6"/>
+  <ellipse cx="418" cy="318" rx="7" ry="5" fill="#ffffff" opacity="0.6"/>
+
+  <!-- little chocolate crumbs on plate -->
+  <circle cx="240" cy="404" r="6" fill="#7b4b2a"/>
+  <circle cx="560" cy="410" r="5" fill="#8a5a68"/>
+  <circle cx="480" cy="450" r="4" fill="#3b2b30"/>
+  <circle cx="320" cy="452" r="4" fill="#7b4b2a"/>
+</svg>
