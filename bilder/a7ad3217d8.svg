@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" preserveAspectRatio="xMidYMid slice">
+  <rect x="0" y="0" width="800" height="600" fill="#f7dde5"/>
+
+  <!-- plate shadow -->
+  <ellipse cx="400" cy="470" rx="235" ry="34" fill="#c97f97" opacity="0.35"/>
+
+  <!-- plate -->
+  <ellipse cx="400" cy="432" rx="245" ry="72" fill="#ffffff" stroke="#3b2b30" stroke-width="6"/>
+  <ellipse cx="400" cy="426" rx="205" ry="56" fill="#f4e3c8" stroke="#3b2b30" stroke-width="3"/>
+
+  <!-- back row of toffee pieces -->
+  <g>
+    <rect x="328" y="290" width="72" height="62" rx="10" fill="#7b4b2a" stroke="#3b2b30" stroke-width="4"/>
+    <rect x="336" y="296" width="28" height="20" rx="6" fill="#d9a066"/>
+
+    <rect x="404" y="290" width="72" height="62" rx="10" fill="#7b4b2a" stroke="#3b2b30" stroke-width="4"/>
+    <rect x="412" y="296" width="28" height="20" rx="6" fill="#d9a066"/>
+  </g>
+
+  <!-- almonds on back pieces -->
+  <ellipse cx="362" cy="308" rx="15" ry="8" fill="#f4e3c8" stroke="#3b2b30" stroke-width="2" transform="rotate(-15 362 308)"/>
+  <ellipse cx="440" cy="308" rx="15" ry="8" fill="#f4e3c8" stroke="#3b2b30" stroke-width="2" transform="rotate(18 440 308)"/>
+
+  <!-- middle row of toffee pieces -->
+  <g>
+    <rect x="270" y="345" width="78" height="66" rx="10" fill="#7b4b2a" stroke="#3b2b30" stroke-width="4"/>
+    <rect x="278" y="351" width="30" height="22" rx="6" fill="#d9a066"/>
+
+    <rect x="352" y="340" width="78" height="66" rx="10" fill="#7b4b2a" stroke="#3b2b30" stroke-width="4"/>
+    <rect x="360" y="346" width="30" height="22" rx="6" fill="#d9a066"/>
+
+    <rect x="434" y="345" width="78" height="66" rx="10" fill="#7b4b2a" stroke="#3b2b30" stroke-width="4"/>
+    <rect x="442" y="351" width="30" height="22" rx="6" fill="#d9a066"/>
+  </g>
+
+  <!-- almond on middle piece -->
+  <ellipse cx="391" cy="360" rx="16" ry="9" fill="#f4e3c8" stroke="#3b2b30" stroke-width="2" transform="rotate(-10 391 360)"/>
+
+  <!-- front row of toffee pieces -->
+  <g>
+    <rect x="228" y="400" width="84" height="70" rx="12" fill="#7b4b2a" stroke="#3b2b30" stroke-width="4"/>
+    <rect x="237" y="407" width="32" height="24" rx="6" fill="#d9a066"/>
+
+    <rect x="312" y="395" width="84" height="70" rx="12" fill="#7b4b2a" stroke="#3b2b30" stroke-width="4"/>
+    <rect x="321" y="402" width="32" height="24" rx="6" fill="#d9a066"/>
+
+    <rect x="396" y="395" width="84" height="70" rx="12" fill="#7b4b2a" stroke="#3b2b30" stroke-width="4"/>
+    <rect x="405" y="402" width="32" height="24" rx="6" fill="#d9a066"/>
+
+    <rect x="480" y="400" width="84" height="70" rx="12" fill="#7b4b2a" stroke="#3b2b30" stroke-width="4"/>
+    <rect x="489" y="407" width="32" height="24" rx="6" fill="#d9a066"/>
+  </g>
+
+  <!-- almond on a front piece -->
+  <ellipse cx="354" cy="418" rx="17" ry="9" fill="#f4e3c8" stroke="#3b2b30" stroke-width="2" transform="rotate(12 354 418)"/>
+
+  <!-- glossy shine accents -->
+  <ellipse cx="255" cy="418" rx="9" ry="5" fill="#ffffff" opacity="0.5" transform="rotate(-20 255 418)"/>
+  <ellipse cx="507" cy="418" rx="9" ry="5" fill="#ffffff" opacity="0.5" transform="rotate(20 507 418)"/>
+  <ellipse cx="345" cy="305" rx="7" ry="4" fill="#ffffff" opacity="0.45" transform="rotate(-15 345 305)"/>
+</svg>

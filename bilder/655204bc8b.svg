@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" preserveAspectRatio="xMidYMid slice">
+  <rect x="0" y="0" width="800" height="600" fill="#f7dde5"/>
+
+  <!-- fat -->
+  <ellipse cx="400" cy="430" rx="230" ry="42" fill="#ffffff" stroke="#3b2b30" stroke-width="6"/>
+  <ellipse cx="400" cy="420" rx="230" ry="36" fill="#ffffff" stroke="#3b2b30" stroke-width="6"/>
+  <ellipse cx="400" cy="420" rx="190" ry="26" fill="#f4e3c8" stroke="#3b2b30" stroke-width="3"/>
+
+  <!-- klick 1 -->
+  <path d="M 200 400 C 180 340 220 300 260 300 C 280 260 340 260 355 295 C 400 280 430 320 415 355 C 440 380 425 410 395 410 C 380 425 220 425 200 400 Z" fill="#ffffff" stroke="#3b2b30" stroke-width="6"/>
+  <path d="M 220 380 C 235 360 260 350 280 355" fill="none" stroke="#e39ab0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 300 340 C 315 325 335 322 350 330" fill="none" stroke="#e39ab0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 340 380 C 355 370 375 368 390 375" fill="none" stroke="#e39ab0" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- klick 2 -->
+  <path d="M 400 410 C 385 360 415 320 450 320 C 465 285 520 288 535 320 C 575 310 600 345 585 375 C 610 395 595 420 565 420 C 550 432 420 432 400 410 Z" fill="#ffffff" stroke="#3b2b30" stroke-width="6"/>
+  <path d="M 420 390 C 435 372 458 365 475 370" fill="none" stroke="#e39ab0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 480 345 C 495 332 515 330 528 337" fill="none" stroke="#e39ab0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 520 385 C 535 376 552 374 565 380" fill="none" stroke="#e39ab0" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- klick 3, mindre, framtill -->
+  <path d="M 330 415 C 320 380 345 355 370 355 C 385 330 425 332 435 358 C 465 350 480 375 468 398 C 480 415 468 432 448 428 C 435 435 345 432 330 415 Z" fill="#ffffff" stroke="#3b2b30" stroke-width="5"/>
+
+  <!-- kardemummakorn -->
+  <ellipse cx="290" cy="335" rx="9" ry="7" fill="#7b4b2a" stroke="#3b2b30" stroke-width="2"/>
+  <ellipse cx="470" cy="345" rx="9" ry="7" fill="#7b4b2a" stroke="#3b2b30" stroke-width="2"/>
+  <ellipse cx="390" cy="380" rx="8" ry="6" fill="#7b4b2a" stroke="#3b2b30" stroke-width="2"/>
+  <ellipse cx="250" cy="375" rx="8" ry="6" fill="#d9a066" stroke="#3b2b30" stroke-width="2"/>
+  <ellipse cx="540" cy="380" rx="8" ry="6" fill="#d9a066" stroke="#3b2b30" stroke-width="2"/>
+
+  <!-- florsocker-stänk -->
+  <circle cx="320" cy="310" r="4" fill="#ffffff"/>
+  <circle cx="360" cy="295" r="3" fill="#ffffff"/>
+  <circle cx="460" cy="300" r="4" fill="#ffffff"/>
+  <circle cx="500" cy="330" r="3" fill="#ffffff"/>
+  <circle cx="410" cy="335" r="3" fill="#ffffff"/>
+
+  <!-- små blad/dekoration i kanten -->
+  <path d="M 230 425 C 245 415 260 415 270 425 C 260 435 245 435 230 425 Z" fill="#c97f97" stroke="#3b2b30" stroke-width="3"/>
+  <path d="M 530 425 C 545 415 560 415 570 425 C 560 435 545 435 530 425 Z" fill="#c97f97" stroke="#3b2b30" stroke-width="3"/>
+  <ellipse cx="400" cy="425" rx="10" ry="6" fill="#8a5a68" stroke="#3b2b30" stroke-width="2"/>
+</svg>
