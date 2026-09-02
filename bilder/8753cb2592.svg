@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" preserveAspectRatio="xMidYMid slice">
+  <rect x="0" y="0" width="800" height="600" fill="#f7dde5"/>
+
+  <ellipse cx="400" cy="430" rx="230" ry="46" fill="#c97f97" opacity="0.35"/>
+
+  <ellipse cx="400" cy="400" rx="240" ry="90" fill="#ffffff"/>
+  <ellipse cx="400" cy="392" rx="240" ry="86" fill="#f4e3c8"/>
+  <ellipse cx="400" cy="386" rx="205" ry="66" fill="#ffffff"/>
+
+  <g stroke="#3b2b30" stroke-width="4" stroke-linejoin="round">
+    <path d="M300 190 L300 330 L500 330 L500 190 Z" fill="#7b4b2a"/>
+    <path d="M300 330 L260 380 L460 380 L500 330 Z" fill="#8a5a68"/>
+    <path d="M300 190 L340 155 L540 155 L500 190 Z" fill="#d9a066"/>
+    <path d="M500 190 L540 155 L540 300 L500 330 Z" fill="#8a5a68"/>
+  </g>
+
+  <path d="M320 200 C360 215, 340 240, 380 250 C420 260, 400 285, 440 295 C465 302, 470 312, 480 320"
+        fill="none" stroke="#c97f97" stroke-width="7" stroke-linecap="round"/>
+  <path d="M320 240 C355 252, 345 270, 385 280 C420 288, 405 305, 445 315"
+        fill="none" stroke="#e39ab0" stroke-width="6" stroke-linecap="round"/>
+  <path d="M330 155 C360 168, 400 168, 430 155 C450 165, 470 165, 490 155"
+        fill="none" stroke="#c97f97" stroke-width="6" stroke-linecap="round"/>
+
+  <g fill="#ffffff" stroke="#3b2b30" stroke-width="2">
+    <circle cx="350" cy="168" r="6"/>
+    <circle cx="375" cy="160" r="5"/>
+    <circle cx="400" cy="170" r="6"/>
+    <circle cx="425" cy="160" r="5"/>
+    <circle cx="450" cy="170" r="6"/>
+    <circle cx="470" cy="162" r="5"/>
+    <circle cx="360" cy="180" r="5"/>
+    <circle cx="410" cy="182" r="5"/>
+    <circle cx="460" cy="180" r="5"/>
+  </g>
+
+  <g stroke="#3b2b30" stroke-width="3" stroke-linejoin="round">
+    <path d="M180 300 C165 320, 165 350, 185 365 C170 375, 175 395, 195 395 C215 415, 245 405, 250 380 C270 375, 270 350, 250 340 C255 320, 235 300, 215 305 C205 292, 188 292, 180 300 Z" fill="#d9a066"/>
+  </g>
+  <path d="M195 320 C205 330, 210 345, 200 360" fill="none" stroke="#7b4b2a" stroke-width="3" stroke-linecap="round"/>
+
+  <g stroke="#3b2b30" stroke-width="2.5" stroke-linejoin="round">
+    <ellipse cx="600" cy="330" rx="16" ry="11" fill="#e39ab0" transform="rotate(-20 600 330)"/>
+    <ellipse cx="620" cy="345" rx="16" ry="11" fill="#c97f97" transform="rotate(15 620 345)"/>
+  </g>
+</svg>

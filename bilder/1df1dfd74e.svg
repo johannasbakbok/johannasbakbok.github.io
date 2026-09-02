@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" preserveAspectRatio="xMidYMid slice">
+  <rect x="0" y="0" width="800" height="600" fill="#f7dde5"/>
+
+  <ellipse cx="400" cy="470" rx="230" ry="34" fill="#c97f97" opacity="0.35"/>
+
+  <ellipse cx="400" cy="440" rx="255" ry="70" fill="#ffffff" stroke="#3b2b30" stroke-width="5"/>
+  <ellipse cx="400" cy="428" rx="255" ry="46" fill="#ffffff" stroke="#3b2b30" stroke-width="5"/>
+  <ellipse cx="400" cy="426" rx="195" ry="30" fill="#f4e3c8" opacity="0.6"/>
+
+  <circle cx="290" cy="360" r="70" fill="#7b4b2a" stroke="#3b2b30" stroke-width="5"/>
+  <circle cx="270" cy="335" r="4" fill="#f4e3c8"/>
+  <circle cx="310" cy="345" r="4" fill="#f4e3c8"/>
+  <circle cx="255" cy="365" r="4" fill="#f4e3c8"/>
+  <circle cx="320" cy="375" r="4" fill="#f4e3c8"/>
+  <circle cx="290" cy="390" r="4" fill="#f4e3c8"/>
+  <circle cx="270" cy="395" r="4" fill="#f4e3c8"/>
+
+  <circle cx="430" cy="330" r="76" fill="#7b4b2a" stroke="#3b2b30" stroke-width="5"/>
+  <circle cx="405" cy="300" r="4.5" fill="#ffffff"/>
+  <circle cx="450" cy="308" r="4.5" fill="#ffffff"/>
+  <circle cx="390" cy="335" r="4.5" fill="#ffffff"/>
+  <circle cx="465" cy="340" r="4.5" fill="#ffffff"/>
+  <circle cx="425" cy="350" r="4.5" fill="#ffffff"/>
+  <circle cx="405" cy="365" r="4.5" fill="#ffffff"/>
+  <circle cx="450" cy="365" r="4.5" fill="#ffffff"/>
+
+  <circle cx="555" cy="365" r="66" fill="#7b4b2a" stroke="#3b2b30" stroke-width="5"/>
+  <circle cx="535" cy="340" r="4" fill="#f4e3c8"/>
+  <circle cx="575" cy="345" r="4" fill="#f4e3c8"/>
+  <circle cx="520" cy="370" r="4" fill="#f4e3c8"/>
+  <circle cx="580" cy="380" r="4" fill="#f4e3c8"/>
+  <circle cx="550" cy="392" r="4" fill="#f4e3c8"/>
+
+  <ellipse cx="266" cy="330" rx="18" ry="12" fill="#e39ab0" opacity="0.5"/>
+  <ellipse cx="405" cy="300" rx="20" ry="13" fill="#e39ab0" opacity="0.45"/>
+  <ellipse cx="530" cy="335" rx="16" ry="11" fill="#e39ab0" opacity="0.45"/>
+
+  <path d="M180 200 q10 -22 32 -14 q6 -20 26 -10" stroke="#d9a066" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M560 180 q12 -20 34 -10" stroke="#d9a066" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="620" cy="160" r="7" fill="#c97f97"/>
+  <circle cx="150" cy="150" r="6" fill="#c97f97"/>
+</svg>

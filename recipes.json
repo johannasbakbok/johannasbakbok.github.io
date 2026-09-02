@@ -1,0 +1,3254 @@
+[
+  {
+    "id": "bb30843db2",
+    "title": "Frasvåfflor",
+    "summary": "Klassiska frasiga våfflor på en smet som får vila i kylen innan gräddning.",
+    "servings": "8 våfflor",
+    "totalTimeMinutes": 60,
+    "activeTimeMinutes": 15,
+    "oven": "",
+    "difficulty": "Lätt",
+    "tags": [
+      "våfflor",
+      "utan ugn",
+      "fika",
+      "klassiker",
+      "barnvänligt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "75 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "4 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "½ tsk",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "½ tsk",
+            "name": "bakpulver",
+            "key": "bakpulver",
+            "common": true
+          },
+          {
+            "amount": "2,5 dl",
+            "name": "mjölk",
+            "key": "mjolk",
+            "common": true
+          },
+          {
+            "amount": "2,5 dl",
+            "name": "vatten, gärna kolsyrat",
+            "key": "vatten",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Smält smöret.",
+      "Blanda mjöl, salt och bakpulver i en skål.",
+      "Häll i mjölken och hälften av vattnet och vispa till en slät smet.",
+      "Tillsätt resten av vattnet och det smälta smöret och vispa ihop.",
+      "Låt smeten stå och svälla i kylen i cirka 30 minuter.",
+      "Se till att våffeljärnet är riktigt hett och pensla det med lite smör innan du gräddar första laggen.",
+      "Grädda våfflorna frasiga och gyllenbruna."
+    ],
+    "stepsFromSource": true,
+    "tips": "Gärna kolsyrat vatten i smeten och en stunds vila i kylen ger extra frasiga våfflor.",
+    "notes": "",
+    "image": "/bilder/bb30843db2.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://recept.se/recept/varldens-godaste-frasvafflor",
+    "sourceName": "recept.se",
+    "addedAt": "2026-09-06T21:53:08",
+    "editedAt": "2026-09-06T21:53:33"
+  },
+  {
+    "id": "655204bc8b",
+    "title": "Vispad kardemummakräm",
+    "summary": "En luftig vispad kräm med crème fraiche, kardemumma och florsocker",
+    "servings": "ca 4 port som tillbehör",
+    "totalTimeMinutes": 10,
+    "activeTimeMinutes": 10,
+    "oven": "",
+    "difficulty": "Lätt",
+    "tags": [
+      "kräm",
+      "kardemumma",
+      "tillbehör",
+      "snabbt",
+      "utan ugn"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "2 dl",
+            "name": "crème fraiche",
+            "key": "cremefraiche",
+            "common": false
+          },
+          {
+            "amount": "½ tsk",
+            "name": "stötta kardemummakärnor",
+            "key": "kardemumma",
+            "common": false
+          },
+          {
+            "amount": "½ dl",
+            "name": "florsocker",
+            "key": "florsocker",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Häll crème fraichen i en skål.",
+      "Vispa crème fraichen fluffig tillsammans med kardemumma och florsocker."
+    ],
+    "stepsFromSource": true,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/655204bc8b.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "inklistrat",
+    "addedAt": "2026-09-06T21:41:33"
+  },
+  {
+    "id": "c712c5194a",
+    "title": "Nyttigare söta scones med vaniljkvarg",
+    "summary": "Sockerfria, proteinrika scones med vaniljkvarg och citronzest.",
+    "servings": "4 scones",
+    "totalTimeMinutes": 25,
+    "activeTimeMinutes": 15,
+    "oven": "230 grader, över- och undervärme, mitten av ugnen",
+    "difficulty": "Lätt",
+    "tags": [
+      "scones",
+      "frukost",
+      "bröd",
+      "snabbt",
+      "hälsosamt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "1,5 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "1,5 dl",
+            "name": "grahamsmjöl",
+            "key": "grahamsmjol",
+            "common": true
+          },
+          {
+            "amount": "3 tsk",
+            "name": "bakpulver",
+            "key": "bakpulver",
+            "common": true
+          },
+          {
+            "amount": "0,5 tsk",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "2 dl",
+            "name": "vaniljkvarg",
+            "key": "kvarg",
+            "common": false
+          },
+          {
+            "amount": "1 msk",
+            "name": "olivolja",
+            "key": "olja",
+            "common": true
+          },
+          {
+            "amount": "1 st",
+            "name": "ägg, stort",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "efter smak",
+            "name": "citronzest",
+            "key": "citron",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Blanda vetemjöl, grahamsmjöl, bakpulver och salt i en skål.",
+      "Tillsätt vaniljkvarg, olivolja och ägg och blanda till en jämn deg.",
+      "Riv ner citronzest i degen efter smak (kan uteslutas).",
+      "Klicka jämna klickar av degen på en plåt med bakplåtspapper.",
+      "Forma topparna med blöta händer.",
+      "Grädda i mitten av ugnen på 230 grader, över- och undervärme, i 11–12 minuter.",
+      "Låt scones svalna en aning innan servering."
+    ],
+    "stepsFromSource": true,
+    "tips": "Går att frysa in hela när de svalnat helt – låt tina i rumstemperatur innan servering.",
+    "notes": "",
+    "image": "/bilder/c712c5194a.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.tiktok.com/@sannaskost/video/7663023970387610902",
+    "sourceName": "tiktok.com",
+    "addedAt": "2026-09-06T21:18:24",
+    "editedAt": "2026-09-06T21:35:55"
+  },
+  {
+    "id": "e50e1a84e4",
+    "title": "Chokladmousse på ägg",
+    "summary": "En snabb och proteinrik chokladmousse gjord på kokta ägg, kakao och honung",
+    "servings": "4 portioner",
+    "totalTimeMinutes": 135,
+    "activeTimeMinutes": 15,
+    "oven": "",
+    "difficulty": "Lätt",
+    "tags": [
+      "choklad",
+      "efterrätt",
+      "utan ugn",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "4 st",
+            "name": "kokta ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "0,5 dl",
+            "name": "kakao",
+            "key": "kakao",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "mjölk",
+            "key": "mjolk",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "honung",
+            "key": "honung",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Till servering",
+        "items": [
+          {
+            "amount": "efter smak",
+            "name": "bär, kokta eller färska",
+            "key": "bar",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Koka äggen i 7–8 minuter.",
+      "Kyl äggen i kallt vatten och skala dem.",
+      "Blanda ägg, mjölk, kakao, honung och vaniljsocker.",
+      "Mixa till en jämn smet.",
+      "Ställ smeten i kylen, gärna några timmar.",
+      "Servera med bär."
+    ],
+    "stepsFromSource": true,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/e50e1a84e4.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.tiktok.com/@arlamat/video/7649318919441779990",
+    "sourceName": "tiktok.com",
+    "addedAt": "2026-09-06T21:13:36"
+  },
+  {
+    "id": "aef2196284",
+    "title": "Snabbfrallor",
+    "summary": "Superenkla frukostfrallor på filmjöl och filmjölk, klara på minuter.",
+    "servings": "6 st",
+    "totalTimeMinutes": 20,
+    "activeTimeMinutes": 10,
+    "oven": "250 grader",
+    "difficulty": "Lätt",
+    "tags": [
+      "bröd",
+      "matbröd",
+      "snabbt",
+      "frukost"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "4 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "2 tsk",
+            "name": "bakpulver",
+            "key": "bakpulver",
+            "common": true
+          },
+          {
+            "amount": "lite",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "olivolja",
+            "key": "olivolja",
+            "common": true
+          },
+          {
+            "amount": "2 dl",
+            "name": "filmjölk 3%",
+            "key": "filmjolk",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 250 grader.",
+      "Blanda vetemjöl, bakpulver och salt i en skål.",
+      "Rör ner olivolja och filmjölk och arbeta ihop till en smidig deg.",
+      "Dela degen i 6 delar och forma till frallor.",
+      "Lägg frallorna på en plåt med bakplåtspapper.",
+      "Grädda i ugnen i ca 10 minuter tills frallorna fått fin färg."
+    ],
+    "stepsFromSource": false,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/aef2196284.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.instagram.com/p/C5OFgowo5bu/",
+    "sourceName": "instagram.com",
+    "addedAt": "2026-09-06T20:59:13"
+  },
+  {
+    "id": "90a519574d",
+    "title": "Grekisk yoghurt-glass med bananbitar och choklad",
+    "summary": "Ett enkelt och hälsosamt mellanting mellan glass, mousse och pudding, gjort på banan, choklad och grekisk yoghurt.",
+    "servings": "ca 8-10 bitar",
+    "totalTimeMinutes": 25,
+    "activeTimeMinutes": 10,
+    "oven": "",
+    "difficulty": "Lätt",
+    "tags": [
+      "frukt",
+      "choklad",
+      "efterrätt",
+      "utan ugn",
+      "snabbt",
+      "hälsosamt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "1 st",
+            "name": "banan",
+            "key": "banan",
+            "common": false
+          },
+          {
+            "amount": "1 msk",
+            "name": "mörk choklad, hackad eller chokladknappar",
+            "key": "choklad",
+            "common": false
+          },
+          {
+            "amount": "1¼ dl",
+            "name": "grekisk yoghurt naturell",
+            "key": "yoghurt",
+            "common": false
+          },
+          {
+            "amount": "1 nypa",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Mosa bananen i en skål, eller karamellisera den för extra smak.",
+      "Vill du karamellisera: skiva bananen, hetta upp en stekpanna med lite avokadoolja på medelvärme och lägg i skivorna. Låt ligga 2-3 minuter.",
+      "Ringla gärna över lite honung eller lönnsirap, men det behövs inte.",
+      "Vänd bananskivorna och låt dem stekas ytterligare 2-3 minuter.",
+      "Lägg bananen i en liten skål och ställ den i frysen en stund för att svalna medan du gör resten.",
+      "Smält chokladen i mikrovågsugnen.",
+      "Blanda banan och grekisk yoghurt i en skål.",
+      "Häll i den smälta chokladen och rör försiktigt, men inte så att det blandas helt.",
+      "Skopa upp smeten med en liten glasskopa eller en sked på en bakplåtspappersklädd plåt.",
+      "Ställ plåten i frysen i 10-20 minuter, kortare tid om du är otålig, längre om du har tid."
+    ],
+    "stepsFromSource": true,
+    "tips": "Vill du ha lite extra smak kan du ringla honung eller lönnsirap över bananen medan den karamelliseras.",
+    "notes": "",
+    "image": "/bilder/90a519574d.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.instagram.com/p/DY7LmQXAD_w/",
+    "sourceName": "instagram.com",
+    "addedAt": "2026-09-06T20:38:50",
+    "editedAt": "2026-09-06T20:42:16"
+  },
+  {
+    "id": "f67844be7f",
+    "title": "Biscoff & Daim-cheesecake",
+    "summary": "Krämig cheesecake utan ugn med biscoffkakbotten, daim och biscoff-topping",
+    "servings": "4 portioner",
+    "totalTimeMinutes": 240,
+    "activeTimeMinutes": 20,
+    "oven": "",
+    "difficulty": "Lätt",
+    "tags": [
+      "cheesecake",
+      "daim",
+      "biscoff",
+      "utan ugn",
+      "efterrätt",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "Botten",
+        "items": [
+          {
+            "amount": "11 st",
+            "name": "Biscoffkakor",
+            "key": "biscoffkakor",
+            "common": false
+          },
+          {
+            "amount": "25 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Cheesecakefyllning",
+        "items": [
+          {
+            "amount": "200 g",
+            "name": "färskost",
+            "key": "farskost",
+            "common": false
+          },
+          {
+            "amount": "2 dl",
+            "name": "vispgrädde",
+            "key": "gradde",
+            "common": false
+          },
+          {
+            "amount": "1 dl",
+            "name": "florsocker",
+            "key": "florsocker",
+            "common": false
+          },
+          {
+            "amount": "1 tsk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          },
+          {
+            "amount": "1 dubbelkaka, 56 g",
+            "name": "Daim",
+            "key": "daim",
+            "common": false
+          }
+        ]
+      },
+      {
+        "group": "Topping",
+        "items": [
+          {
+            "amount": "ca 3 msk",
+            "name": "Biscoff spread",
+            "key": "biscoff",
+            "common": false
+          },
+          {
+            "amount": "ca 1 dl",
+            "name": "vispad grädde",
+            "key": "gradde",
+            "common": false
+          },
+          {
+            "amount": "efter smak",
+            "name": "Daim",
+            "key": "daim",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Krossa Biscoffkakorna fint och blanda med det smälta smöret.",
+      "Fördela smulblandningen i botten på 4 glas och ställ i kylen.",
+      "Vispa färskost, vispgrädde, florsocker och vaniljsocker till en tjock och fluffig kräm.",
+      "Hacka daimen fint och vänd ner den i krämen.",
+      "Fördela krämen ovanpå kaksmulorna i glasen.",
+      "Värm biscoff-spreadet i mikrovågsugnen i ca 30 sekunder tills det blir rinnigt.",
+      "Häll det rinniga biscoff-spreadet över cheesecaken i glasen.",
+      "Toppa med vispad grädde och extra hackad daim."
+    ],
+    "stepsFromSource": true,
+    "tips": "Låt gärna glasen stå kallt minst 2 timmar innan servering så hinner fyllningen sätta sig ordentligt.",
+    "notes": "",
+    "image": "/bilder/f67844be7f.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.instagram.com/p/DcgfjAiNXF2/",
+    "sourceName": "instagram.com",
+    "addedAt": "2026-09-06T20:31:02"
+  },
+  {
+    "id": "39f8e3a8ca",
+    "title": "Kanelbullekladdkaka",
+    "summary": "En kladdig kladdkaka smaksatt som en kanelbulle, med brynt smör, kardemumma och en marmorerad kanelfyllning.",
+    "servings": "1 form, 25–26 cm",
+    "totalTimeMinutes": 45,
+    "activeTimeMinutes": 20,
+    "oven": "200 grader, över- och undervärme, mitt i ugnen",
+    "difficulty": "Medel",
+    "tags": [
+      "kladdkaka",
+      "kanel",
+      "kardemumma",
+      "kaka",
+      "festligt"
+    ],
+    "ingredients": [
+      {
+        "group": "Kaka",
+        "items": [
+          {
+            "amount": "200 g",
+            "name": "smör som bryns",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "½ tsk",
+            "name": "kardemumma",
+            "key": "kardemumma",
+            "common": false
+          },
+          {
+            "amount": "3 dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "farinsocker",
+            "key": "farinsocker",
+            "common": false
+          },
+          {
+            "amount": "4 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "3 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          },
+          {
+            "amount": "1 nypa",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Kanelfyllning",
+        "items": [
+          {
+            "amount": "25 g",
+            "name": "smör, smält",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "2 msk",
+            "name": "farinsocker",
+            "key": "farinsocker",
+            "common": false
+          },
+          {
+            "amount": "3 tsk",
+            "name": "kanel",
+            "key": "kanel",
+            "common": true
+          },
+          {
+            "amount": "2 tsk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Garnering",
+        "items": [
+          {
+            "amount": "efter smak",
+            "name": "pärlsocker",
+            "key": "parlsocker",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 200 grader, över- och undervärme.",
+      "Bryn smöret och låt det svalna något.",
+      "Rör ner strösocker, farinsocker och kardemumma i smöret medan det fortfarande är lite varmt.",
+      "Knäck i äggen och rör försiktigt ihop smeten.",
+      "Tillsätt vetemjöl, vaniljsocker och salt och rör till en jämn smet.",
+      "Häll smeten i en smord form, cirka 25–26 cm i diameter.",
+      "Blanda smält smör, farinsocker, kanel och vaniljsocker till en kanelfyllning.",
+      "Ringla kanelfyllningen över smeten och dra runt med en kniv för att skapa ett marmorerat mönster.",
+      "Toppa med pärlsocker.",
+      "Grädda mitt i ugnen i cirka 12 minuter, tills kanterna satt sig men mitten fortfarande dallrar lätt.",
+      "Låt kakan svalna helt och ställ den gärna i kylen några timmar eller över natten innan servering."
+    ],
+    "stepsFromSource": true,
+    "tips": "Använder du en mindre form kan kakan behöva lite längre tid i ugnen. Servera gärna med vaniljglass eller lättvispad grädde.",
+    "notes": "Se storlek på formen, halvera smeten i en mindre form men håll koll på den i ugnen.",
+    "image": "/bilder/39f8e3a8ca.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.instagram.com/p/DcyiwAGNt7U/",
+    "sourceName": "instagram.com",
+    "addedAt": "2026-09-06T20:27:30",
+    "editedAt": "2026-09-09T19:14:54"
+  },
+  {
+    "id": "d29bb16006",
+    "title": "Ingrids vinbärskaka",
+    "summary": "En enkel sockerkaka med vinbär.",
+    "servings": "1 form, ca 12 bitar",
+    "totalTimeMinutes": 45,
+    "activeTimeMinutes": 15,
+    "oven": "175 grader",
+    "difficulty": "Lätt",
+    "tags": [
+      "kaka",
+      "bär",
+      "fikabröd",
+      "snabbt",
+      "klassiker"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "2 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "2½ dl",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "2½ dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "75 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "bakpulver",
+            "key": "bakpulver",
+            "common": true
+          },
+          {
+            "amount": "efter smak",
+            "name": "vinbär",
+            "key": "vinbar",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 175 grader.",
+      "Smält smöret och låt det svalna något.",
+      "Vispa ägg och socker pösigt.",
+      "Blanda mjöl och bakpulver och vänd ner i smeten.",
+      "Rör ner det smälta smöret.",
+      "Häll smeten i en smord form.",
+      "Strö vinbären över smeten.",
+      "Grädda i nedre delen av ugnen i 25-30 minuter."
+    ],
+    "stepsFromSource": false,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/d29bb16006.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "foto",
+    "addedAt": "2026-09-03T12:54:20",
+    "editedAt": "2026-09-06T20:25:25"
+  },
+  {
+    "id": "590c360784",
+    "title": "Knäckig sockerfri bärpaj",
+    "summary": "Smulpaj med frysta bär och en proteinrik smuldeg av banan och havregryn",
+    "servings": "1 liten form",
+    "totalTimeMinutes": 35,
+    "activeTimeMinutes": 15,
+    "oven": "180 grader",
+    "difficulty": "Lätt",
+    "tags": [
+      "bär",
+      "sockerfri",
+      "protein",
+      "paj",
+      "fika",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "Bärlager",
+        "items": [
+          {
+            "amount": "200 g",
+            "name": "frysta bär",
+            "key": "bar",
+            "common": false
+          },
+          {
+            "amount": "1 msk",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "sötströ",
+            "key": "sotstro",
+            "common": false
+          }
+        ]
+      },
+      {
+        "group": "Smuldeg",
+        "items": [
+          {
+            "amount": "1 st (ca 100 g)",
+            "name": "mogen banan",
+            "key": "banan",
+            "common": false
+          },
+          {
+            "amount": "2 dl",
+            "name": "havregryn",
+            "key": "havregryn",
+            "common": false
+          },
+          {
+            "amount": "2 msk",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "2 msk (ca 20 g)",
+            "name": "vaniljsmaksatt whey-protein",
+            "key": "proteinpulver",
+            "common": false
+          },
+          {
+            "amount": "2 msk (30 g)",
+            "name": "fibersirap",
+            "key": "fibersirap",
+            "common": false
+          },
+          {
+            "amount": "2 tsk (10 g)",
+            "name": "kokosolja",
+            "key": "kokosolja",
+            "common": false
+          },
+          {
+            "amount": "½ tsk",
+            "name": "kanel",
+            "key": "kanel",
+            "common": true
+          },
+          {
+            "amount": "lite",
+            "name": "kardemumma",
+            "key": "kardemumma",
+            "common": false
+          },
+          {
+            "amount": "1 nypa",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 180 grader.",
+      "Lägg de frysta bären i en ugnsform och blanda med vetemjölet och sötströet.",
+      "Mosa bananen i en skål.",
+      "Blanda ner havregryn, vetemjöl, proteinpulver, fibersirap, kokosolja och kryddorna i bananmoset.",
+      "Lägg smuldegen jämnt över bären.",
+      "Grädda i 18–20 minuter tills toppen är gyllene och knäckig."
+    ],
+    "stepsFromSource": true,
+    "tips": "Servera med proteinpudding eller vaniljkvarg för extra protein.",
+    "notes": "",
+    "image": "/bilder/590c360784.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.instagram.com/p/DWW4OmhiJQE/",
+    "sourceName": "instagram.com",
+    "addedAt": "2026-09-02T20:56:26"
+  },
+  {
+    "id": "ace07eb711",
+    "title": "Banan- och morotskaka till frukost",
+    "summary": "En mättande ugnsbakad kaka på havre, morot och banan, toppad med proteinsås och chokladgranola.",
+    "servings": "6 bitar",
+    "totalTimeMinutes": 60,
+    "activeTimeMinutes": 15,
+    "oven": "175 grader, mitten av ugnen",
+    "difficulty": "Lätt",
+    "tags": [
+      "havregryn",
+      "morot",
+      "banan",
+      "protein",
+      "frukost",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "Kaka",
+        "items": [
+          {
+            "amount": "200 g",
+            "name": "havregryn",
+            "key": "havregryn",
+            "common": true
+          },
+          {
+            "amount": "2 medelstora",
+            "name": "morötter, rivna",
+            "key": "morot",
+            "common": false
+          },
+          {
+            "amount": "2",
+            "name": "mogna bananer, mosade",
+            "key": "banan",
+            "common": false
+          },
+          {
+            "amount": "3 dl",
+            "name": "osötad mandelmjölk (eller annan mjölk)",
+            "key": "mandelmjolk",
+            "common": false
+          },
+          {
+            "amount": "2",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "efter smak",
+            "name": "kanel",
+            "key": "kanel",
+            "common": true
+          },
+          {
+            "amount": "1 nypa",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Proteinsås (valfritt)",
+        "items": [
+          {
+            "amount": "150 g",
+            "name": "keso eller 0% grekisk yoghurt",
+            "key": "keso",
+            "common": false
+          },
+          {
+            "amount": "3 skopor (75 g)",
+            "name": "vaniljproteinpulver",
+            "key": "proteinpulver",
+            "common": false
+          },
+          {
+            "amount": "efter behov",
+            "name": "mjölk, för att späda till krämig konsistens",
+            "key": "mjolk",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Garnering",
+        "items": [
+          {
+            "amount": "efter smak",
+            "name": "chokladgranola",
+            "key": "chokladgranola",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 175 grader.",
+      "Mosa bananerna väl i en ugnsfast form.",
+      "Tillsätt riven morot, mandelmjölk och ägg och blanda väl.",
+      "Tillsätt havregryn, kanel och en nypa salt och rör om tills allt är blandat.",
+      "Grädda i 35–40 minuter tills mitten känns fast.",
+      "Låt svalna i 10 minuter innan du skär i 6 rutor.",
+      "Rör ihop keso eller grekisk yoghurt med proteinpulver och tillsätt mjölk gradvis tills du får en krämig konsistens.",
+      "Häll proteinsåsen över innan servering och toppa med chokladgranola."
+    ],
+    "stepsFromSource": true,
+    "tips": "Byt gärna proteinpulvret mot en smaksatt proteinyoghurt för en enklare sås, till exempel vaniljkvarg.",
+    "notes": "Halva satsen blir bra om man har en mindre ungsform.",
+    "image": "/bilder/ace07eb711.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "",
+    "sourceName": "inklistrat",
+    "addedAt": "2026-08-31T23:09:16",
+    "editedAt": "2026-09-02T12:25:04"
+  },
+  {
+    "id": "a1dc51a427",
+    "title": "Blåbärspajsglass",
+    "summary": "Krämig hemgjord glass varvad med blåbärskompott och knaprig smuldeg, som en paj i glassform.",
+    "servings": "1 form, ca 8 bitar",
+    "totalTimeMinutes": 390,
+    "activeTimeMinutes": 30,
+    "oven": "225 grader, mitten av ugnen",
+    "difficulty": "Lätt",
+    "tags": [
+      "glass",
+      "blåbär",
+      "sommar",
+      "efterrätt",
+      "baka"
+    ],
+    "ingredients": [
+      {
+        "group": "Glass",
+        "items": [
+          {
+            "amount": "5 dl",
+            "name": "vispgrädde",
+            "key": "gradde",
+            "common": true
+          },
+          {
+            "amount": "1 burk",
+            "name": "sötad kondenserad mjölk",
+            "key": "kondenserad-mjolk",
+            "common": false
+          },
+          {
+            "amount": "0,5 tsk",
+            "name": "vaniljpulver",
+            "key": "vaniljpulver",
+            "common": false
+          }
+        ]
+      },
+      {
+        "group": "Smuldeg",
+        "items": [
+          {
+            "amount": "50 g",
+            "name": "kallt smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "0,5 dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "0,25 dl",
+            "name": "havregryn",
+            "key": "havregryn",
+            "common": false
+          },
+          {
+            "amount": "0,5 tsk",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Blåbärskompott",
+        "items": [
+          {
+            "amount": "2 dl",
+            "name": "blåbär (färska eller frysta)",
+            "key": "blabar",
+            "common": false
+          },
+          {
+            "amount": "1 dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "0,5 tsk",
+            "name": "kardemumma",
+            "key": "kardemumma",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Vispa grädden fluffig.",
+      "Rör ner vaniljpulver och kondenserad mjölk i den vispade grädden.",
+      "Sätt ugnen på 225 grader.",
+      "Nyp ihop kallt smör, strösocker, vetemjöl, havregryn och salt till en smuldeg.",
+      "Smula ut smuldegen på en plåt med bakplåtspapper.",
+      "Grädda smuldegen i mitten av ugnen i 10–15 minuter.",
+      "Låt smuldegen svalna helt.",
+      "Koka upp blåbär, strösocker och kardemumma till en kompott.",
+      "Låt kompotten puttra i cirka 10 minuter.",
+      "Låt blåbärskompotten svalna.",
+      "Varva glassmet, blåbärskompott och smuldeg i en form.",
+      "Dra några varv med en sked genom lagren för ett marmorerat mönster.",
+      "Frys i minst 6 timmar innan servering."
+    ],
+    "stepsFromSource": true,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/a1dc51a427.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.instagram.com/p/DalDXQCIbIC/",
+    "sourceName": "instagram.com",
+    "addedAt": "2026-08-31T22:56:58"
+  },
+  {
+    "id": "485df3c9b0",
+    "title": "Fluffiga kesopannkakor",
+    "summary": "Proteinrika pannkakor som blir extra fluffiga tack vare keso i smeten.",
+    "servings": "ca 10 pannkakor",
+    "totalTimeMinutes": 30,
+    "activeTimeMinutes": 20,
+    "oven": "",
+    "difficulty": "Lätt",
+    "tags": [
+      "pannkakor",
+      "protein",
+      "frukost",
+      "keso",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "125 g",
+            "name": "vetemjöl (eller havremjöl)",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "400 g",
+            "name": "mager keso",
+            "key": "keso",
+            "common": false
+          },
+          {
+            "amount": "3-6 msk",
+            "name": "lättmjölk",
+            "key": "mjolk",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "bakpulver",
+            "key": "bakpulver",
+            "common": true
+          },
+          {
+            "amount": "3",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "25 g",
+            "name": "proteinpulver, vaniljsmak (valfritt)",
+            "key": "proteinpulver",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Mixa keson till en helt slät smet, gärna med en stavmixer.",
+      "Blanda i vetemjöl, mjölk, bakpulver, ägg och eventuellt proteinpulver i smeten.",
+      "Låt smeten vila i 5–10 minuter.",
+      "Hetta upp en stekpanna på medelvärme med lite smör.",
+      "Stek pannkakorna i 2–3 minuter tills det bubblar lätt på ytan.",
+      "Vänd och stek ytterligare 2–3 minuter tills de är gyllenbruna.",
+      "Servera direkt med valfri topping."
+    ],
+    "stepsFromSource": true,
+    "tips": "Toppa med t.ex. blåbär, florsocker och sirap. Näringsvärde är beräknat utan topping och stekfett – dela totalen på antal pannkakor för värde per styck.",
+    "notes": "",
+    "image": "/bilder/485df3c9b0.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.instagram.com/p/DaFcCKPt_xN/",
+    "sourceName": "instagram.com",
+    "addedAt": "2026-08-31T22:50:32",
+    "editedAt": "2026-08-31T22:53:13"
+  },
+  {
+    "id": "6219ee8dd9",
+    "title": "Glutenfria Kesoblondies (Proteinrika)",
+    "summary": "Kladdiga, proteinrika blondies gjorda på keso, jordnötssmör och mandelmjöl – helt glutenfria.",
+    "servings": "9 bitar",
+    "totalTimeMinutes": 32,
+    "activeTimeMinutes": 10,
+    "oven": "175 grader",
+    "difficulty": "Lätt",
+    "tags": [
+      "protein",
+      "glutenfritt",
+      "kladdig",
+      "choklad",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "450 g",
+            "name": "keso (fetare sort)",
+            "key": "keso",
+            "common": false
+          },
+          {
+            "amount": "250 g",
+            "name": "jordnötssmör, rinnigt",
+            "key": "jordnotssmor",
+            "common": false
+          },
+          {
+            "amount": "150 g",
+            "name": "mandelmjöl",
+            "key": "mandelmjol",
+            "common": false
+          },
+          {
+            "amount": "1 dl",
+            "name": "kokossocker",
+            "key": "kokossocker",
+            "common": false
+          },
+          {
+            "amount": "1 skopa (ca 30 g)",
+            "name": "vaniljproteinpulver, valfritt",
+            "key": "proteinpulver",
+            "common": false
+          },
+          {
+            "amount": "3 msk",
+            "name": "chokladknappar eller hackad choklad",
+            "key": "chokladknappar",
+            "common": false
+          },
+          {
+            "amount": "1 tsk",
+            "name": "vaniljextrakt, valfritt",
+            "key": "vaniljextrakt",
+            "common": false
+          },
+          {
+            "amount": "1 nypa",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 175 grader. Klä en ugnsform (ca 20x20 cm) med bakplåtspapper.",
+      "Mixa kesot i en matberedare eller mixer tills den är helt slät.",
+      "Häll den mixade kesot i en stor bunke. Tillsätt jordnötssmöret, mandelmjölet, kokossockret, proteinpulvret om du använder det, vaniljextraktet och en nypa salt. Blanda tills allt är väl blandat. Vänd ner chokladknapparna. Smeten blir mycket tjock.",
+      "Fördela smeten i den klädda formen och tryck ut den jämnt med baksidan av en slickepott.",
+      "Grädda i 20-25 minuter för mjukare blondies, eller närmare 30 minuter om du vill ha dem fastare och kaklikare.",
+      "Låt formen svalna helt i kylen innan du skär blondiesen i rutor. Det hjälper dem att stelna, de är väldigt kladdiga."
+    ],
+    "stepsFromSource": true,
+    "tips": "Mixa kesot helt slätt innan den blandas i smeten, annars blir blondiesen klumpig. Smeten ska vara betydligt tjockare än en vanlig brownie-smet, det är helt normalt. Kyl gärna blondiesen i minst 20 minuter efter gräddning så de hinner stelna, och förvara dem sedan lufttätt i kylen i upp till 5 dagar.",
+    "notes": "",
+    "image": "/bilder/6219ee8dd9.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://prettydeliciouslife.com/gooey-cottage-cheese-blondies-easy-protein-dessert/?utm_campaign=IG_comment&utm_medium=social&utm_source=gro#recipe",
+    "sourceName": "prettydeliciouslife.com",
+    "addedAt": "2026-08-31T22:47:28"
+  },
+  {
+    "id": "1e96fceb40",
+    "title": "Proteinrika Kanelbullar (Lågkalori)",
+    "summary": "Snabba, proteinrika kanelbullar bakade på keso istället för jäsdeg.",
+    "servings": "9 bullar",
+    "totalTimeMinutes": 50,
+    "activeTimeMinutes": 20,
+    "oven": "190 grader",
+    "difficulty": "Lätt",
+    "tags": [
+      "protein",
+      "kanelbullar",
+      "hälsosamt",
+      "snabbt",
+      "bullar"
+    ],
+    "ingredients": [
+      {
+        "group": "Deg",
+        "items": [
+          {
+            "amount": "3¾ dl",
+            "name": "keso",
+            "key": "keso",
+            "common": false
+          },
+          {
+            "amount": "1 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "1 st",
+            "name": "äggula",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "vaniljextrakt",
+            "key": "vaniljextrakt",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "bakpulver",
+            "key": "bakpulver",
+            "common": true
+          },
+          {
+            "amount": "5 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Kanelfyllning",
+        "items": [
+          {
+            "amount": "2 msk",
+            "name": "kanel",
+            "key": "kanel",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "farinsockersubstitut",
+            "key": "farinsockersubstitut",
+            "common": false
+          }
+        ]
+      },
+      {
+        "group": "Glasyr",
+        "items": [
+          {
+            "amount": "2 msk",
+            "name": "vatten",
+            "key": "vatten",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "florsockersubstitut",
+            "key": "florsockersubstitut",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 190 grader.",
+      "Mixa keso, ägg, äggula, vaniljextrakt och bakpulver till en jämn smet.",
+      "Häll smeten i en skål och blanda ner vetemjölet till en deg.",
+      "Kavla ut degen på en bakduk eller skärbräda.",
+      "Blanda kanel och farinsockersubstitut till en kanelfyllning och gnid in den över degen.",
+      "Rulla ihop degen och skär den i nio bitar.",
+      "Lägg bullarna i en ugnsform och grädda i 25-30 minuter tills de är lätt gyllenbruna.",
+      "Rör ihop vatten och florsockersubstitut till en glasyr.",
+      "Ringla glasyren över de nygräddade bullarna och servera."
+    ],
+    "stepsFromSource": true,
+    "tips": "Byt ut sötningsmedlen mot vanligt farinsocker och florsocker om du inte behöver en lågkaloriversion.",
+    "notes": "",
+    "image": "/bilder/1e96fceb40.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://www.instagram.com/p/DXVbd2DkbUV/",
+    "sourceName": "instagram.com",
+    "addedAt": "2026-08-31T22:44:07"
+  },
+  {
+    "id": "23919e3d2c",
+    "title": "Astrids kalasknäck",
+    "summary": "Klassisk knäck kokt på grädde och sirap, smaksatt med mandel och ströbröd.",
+    "servings": "ca 75 st",
+    "totalTimeMinutes": 120,
+    "activeTimeMinutes": 40,
+    "oven": "",
+    "difficulty": "Medel",
+    "tags": [
+      "knäck",
+      "godis",
+      "jul",
+      "utan ugn",
+      "klassiker"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "2 dl",
+            "name": "vispgrädde",
+            "key": "gradde",
+            "common": true
+          },
+          {
+            "amount": "2 dl",
+            "name": "ljus sirap",
+            "key": "sirap",
+            "common": false
+          },
+          {
+            "amount": "2 dl",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "skållad hackad mandel",
+            "key": "mandel",
+            "common": false
+          },
+          {
+            "amount": "2 msk",
+            "name": "ströbröd",
+            "key": "strobrod",
+            "common": false
+          },
+          {
+            "amount": "2 msk",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Blanda grädde, sirap och socker i en tjockbottnad kastrull.",
+      "Koka smeten utan lock tills temperaturen är 125 grader, eller tills några droppar av smeten som hälls ned i kallt vatten stelnar och blir hårda. Koktid ca 30 minuter, rör om då och då.",
+      "Tillsätt mandel, ströbröd och smör.",
+      "Fördela smeten i knäckformar.",
+      "Låt knäcken stelna.",
+      "Förvara i kylen."
+    ],
+    "stepsFromSource": true,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/23919e3d2c.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "foto",
+    "addedAt": "2026-08-31T22:36:30"
+  },
+  {
+    "id": "a7ad3217d8",
+    "title": "Chokladkola",
+    "summary": "Klassisk mjuk chokladkola kokt i kastrull och garnerad med skållad mandel.",
+    "servings": "ca 75 st",
+    "totalTimeMinutes": 150,
+    "activeTimeMinutes": 35,
+    "oven": "",
+    "difficulty": "Medel",
+    "tags": [
+      "kola",
+      "choklad",
+      "godis",
+      "utan ugn",
+      "klassiker",
+      "festligt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "50 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "4 msk",
+            "name": "kakao",
+            "key": "kakao",
+            "common": true
+          },
+          {
+            "amount": "3 dl",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "1 1/2 dl",
+            "name": "sirap",
+            "key": "sirap",
+            "common": false
+          },
+          {
+            "amount": "3 dl",
+            "name": "vispgrädde",
+            "key": "gradde",
+            "common": false
+          },
+          {
+            "amount": "1 krm",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "ättiksprit",
+            "key": "attiksprit",
+            "common": false
+          },
+          {
+            "amount": "",
+            "name": "skållad mandel till garnering",
+            "key": "mandel",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Smält smöret i en vid, tjockbottnad kastrull.",
+      "Rör ner kakao, socker, sirap, grädde och salt.",
+      "Koka upp under omrörning.",
+      "Tillsätt ättikspriten.",
+      "Koka utan lock tills smeten är 125 grader, eller tills några droppar av smeten som hälls i kallt vatten blir sega och kan formas till en kula. Koktid 20–30 minuter, rör om då och då.",
+      "Häll upp smeten i en smord form (20x25 cm).",
+      "Låt kolan stelna i rumstemperatur.",
+      "Skär eller klipp kolan i bitar och tryck fast en halv mandel på varje kola.",
+      "Förvara i kylen."
+    ],
+    "stepsFromSource": true,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/a7ad3217d8.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "foto",
+    "addedAt": "2026-08-31T22:33:26"
+  },
+  {
+    "id": "f37edb8efd",
+    "title": "Salt kolafudge",
+    "summary": "En len, hemmagjord fudge med smak av salt kola.",
+    "servings": "ca 40 bitar",
+    "totalTimeMinutes": 60,
+    "activeTimeMinutes": 20,
+    "oven": "",
+    "difficulty": "Medel",
+    "tags": [
+      "godis",
+      "choklad",
+      "jul",
+      "utan ugn",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "3 dl",
+            "name": "vispgrädde",
+            "key": "gradde",
+            "common": false
+          },
+          {
+            "amount": "2,5 dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "ljus sirap",
+            "key": "sirap",
+            "common": false
+          },
+          {
+            "amount": "100 g",
+            "name": "vit choklad",
+            "key": "vit-choklad",
+            "common": false
+          },
+          {
+            "amount": "50 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "0,5 tsk",
+            "name": "flingsalt",
+            "key": "flingsalt",
+            "common": false
+          },
+          {
+            "amount": "",
+            "name": "flingsalt att garnera med",
+            "key": "flingsalt",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Klä en form (t.ex. silikonform eller rektangulär form, ca 30×15 cm) med bakplåtspapper.",
+      "Häll vispgrädde, strösocker, vaniljsocker och ljus sirap i en tjockbottnad kastrull.",
+      "Koka upp under försiktig omrörning tills en termometer visar 120 grader, utan att skrapa i botten på kastrullen.",
+      "Ta av kastrullen från värmen. Grovhacka den vita chokladen om den inte redan är i knappar.",
+      "Blanda ner chokladen, smöret och flingsaltet i den varma smeten.",
+      "Rör om tills chokladen och smöret smält helt och du har en jämn fudgesmet.",
+      "Häll upp smeten i formen och bred ut i ett jämnt lager.",
+      "Garnera med flingsalt.",
+      "Ställ i kylskåp i ca 30 minuter tills fudgen stelnat.",
+      "Skär upp i bitar och servera direkt, eller förvara i en lufttät burk i kylskåp eller skafferi."
+    ],
+    "stepsFromSource": true,
+    "tips": "Fudgen håller sig i minst 2 månader i lufttät burk i rumstemperatur, ännu längre i kylskåp. Slå in bitarna i smörpapper så klibbar de inte ihop. Gör en vegansk variant genom att byta ut vispgrädde, smör och vit choklad mot växtbaserade motsvarigheter (grädden måste vara vispbar men ska inte vispas upp innan den läggs i kastrullen).",
+    "notes": "",
+    "image": "/bilder/f37edb8efd.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://mykitchenstories.se/salt-kolafudge/",
+    "sourceName": "mykitchenstories.se",
+    "addedAt": "2026-08-31T14:53:47"
+  },
+  {
+    "id": "c3512fc8bc",
+    "title": "Filips Chokladfondant",
+    "summary": "Klassisk chokladfondant med smält kärna, klar på 20 minuter.",
+    "servings": "4 portioner",
+    "totalTimeMinutes": 20,
+    "activeTimeMinutes": 15,
+    "oven": "180 grader",
+    "difficulty": "Medel",
+    "tags": [
+      "choklad",
+      "fondant",
+      "dessert",
+      "festligt",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "Smet",
+        "items": [
+          {
+            "amount": "4 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "200 g (2 dl)",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "50 g (1 dl)",
+            "name": "kakao",
+            "key": "kakao",
+            "common": true
+          },
+          {
+            "amount": "125 g (ca 2 dl)",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "½ dl",
+            "name": "mjölk",
+            "key": "mjolk",
+            "common": true
+          },
+          {
+            "amount": "200 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "1 liten nypa",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Till formarna",
+        "items": [
+          {
+            "amount": "",
+            "name": "rapsolja eller smält smör, till pensling",
+            "key": "rapsolja",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Smörj hårda muffinsformar eller souffléformar med rapsolja eller smält smör.",
+      "Vispa socker och ägg pösigt.",
+      "Smält smöret i mikron eller i en kastrull och vispa i den kalla mjölken.",
+      "Tillsätt smör- och mjölkblandningen till socker- och äggblandningen under vispning.",
+      "Sikta ner kakao, salt och mjöl i blandningen under vispning.",
+      "Fördela smeten i de smorda formarna, ungefär två tredjedelar upp.",
+      "Grädda i ugn på 180 grader i cirka 7-8 minuter.",
+      "Servera genast med vaniljglass."
+    ],
+    "stepsFromSource": true,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/c3512fc8bc.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "foto",
+    "addedAt": "2026-08-31T14:50:00"
+  },
+  {
+    "id": "8753cb2592",
+    "title": "Filips Kanelbulle Kladdkaka",
+    "summary": "En mjuk kladdkaka smaksatt med kanel och kardemumma, toppad med knastrigt pärlsocker.",
+    "servings": "1 form, 22 cm",
+    "totalTimeMinutes": 25,
+    "activeTimeMinutes": 10,
+    "oven": "175 grader, varmluft, mitten av ugnen",
+    "difficulty": "Lätt",
+    "tags": [
+      "kladdkaka",
+      "kanel",
+      "kaka",
+      "fika",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "Kladdkaka",
+        "items": [
+          {
+            "amount": "2 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "1½ dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "farinsocker",
+            "key": "farinsocker",
+            "common": false
+          },
+          {
+            "amount": "½ tsk",
+            "name": "vaniljpulver",
+            "key": "vaniljpulver",
+            "common": false
+          },
+          {
+            "amount": "1½ dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "1 nypa",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "160 g",
+            "name": "smält smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "2 msk",
+            "name": "kanel",
+            "key": "kanel",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "kardemumma",
+            "key": "kardemumma",
+            "common": false
+          },
+          {
+            "amount": "3-5 msk",
+            "name": "pärlsocker",
+            "key": "parlsocker",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 175 grader, varmluft.",
+      "Smält smöret tillsammans med kanel och kardemumma.",
+      "Vispa ägg, strösocker, farinsocker och vaniljpulver poröst.",
+      "Rör ner vetemjöl och salt och vispa ihop.",
+      "Häll i det smälta smöret, men spara ca 2-3 msk, och vispa till en jämn smet.",
+      "Klä botten av en rund form (22 cm) med bakplåtspapper och smöra, olja eller spraya kanterna med fett.",
+      "Häll smeten i formen.",
+      "Ringla över det sparade smälta smöret och swirla runt lite.",
+      "Toppa med rikligt med pärlsocker.",
+      "Grädda mitt i ugnen i 18-20 minuter, inte längre.",
+      "Ta ut kakan och låt svalna något, eller ställ i kylen tills den är ljummen.",
+      "Skär upp och njut."
+    ],
+    "stepsFromSource": true,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/8753cb2592.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "foto",
+    "addedAt": "2026-08-31T14:48:48"
+  },
+  {
+    "id": "bf29caa1dc",
+    "title": "Rice Krispies Tårta",
+    "summary": "En krämig tårta med knaprig botten av rice krispies, vaniljkräm och grädde, toppad med färska bär.",
+    "servings": "1 tårta",
+    "totalTimeMinutes": 90,
+    "activeTimeMinutes": 25,
+    "oven": "125 grader",
+    "difficulty": "Medel",
+    "tags": [
+      "tårta",
+      "jordgubbar",
+      "sommar",
+      "festligt",
+      "bakverk"
+    ],
+    "ingredients": [
+      {
+        "group": "Botten",
+        "items": [
+          {
+            "amount": "4 st",
+            "name": "äggvitor",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "3 dl",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "3 dl",
+            "name": "rice krispies",
+            "key": "rice-krispies",
+            "common": false
+          }
+        ]
+      },
+      {
+        "group": "Kräm",
+        "items": [
+          {
+            "amount": "4 st",
+            "name": "äggulor",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "grädde",
+            "key": "gradde",
+            "common": false
+          },
+          {
+            "amount": "125 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Garnering",
+        "items": [
+          {
+            "amount": "4 dl",
+            "name": "grädde",
+            "key": "gradde",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Vispa äggvitorna hårt.",
+      "Blanda i sockret och vispa lika mycket igen.",
+      "Blanda försiktigt i rice krispies.",
+      "Grädda i 125 grader i cirka 1 timme.",
+      "Låt gärna kakan stå kvar i den avstängda ugnen på eftervärme, gärna över natten.",
+      "Koka upp äggulor, socker, vetemjöl och grädde på svag värme tills smeten tjocknar.",
+      "Ta av kastrullen från plattan och rör i smöret och vaniljsockret.",
+      "Bred krämen över den avsvalnade botten.",
+      "Vispa grädden och bred den över tårtan.",
+      "Dekorera med valfri frukt eller bär, till exempel jordgubbar, persikor eller kiwi."
+    ],
+    "stepsFromSource": true,
+    "tips": "Låt gärna botten stå kvar i den avstängda ugnen över natten för bästa resultat.",
+    "notes": "",
+    "image": "/bilder/bf29caa1dc.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "foto",
+    "addedAt": "2026-08-31T14:46:31"
+  },
+  {
+    "id": "4b1e780c3e",
+    "title": "Rocky road",
+    "summary": "Enkel chokladgodis med jordnötter, kola och marshmallows, gjord helt utan ugn.",
+    "servings": "1 form, ca 16 bitar",
+    "totalTimeMinutes": 140,
+    "activeTimeMinutes": 20,
+    "oven": "",
+    "difficulty": "Lätt",
+    "tags": [
+      "choklad",
+      "snacks",
+      "utan ugn",
+      "snabbt",
+      "barnvänligt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "200 g",
+            "name": "mjölkchoklad",
+            "key": "choklad",
+            "common": false
+          },
+          {
+            "amount": "1 tsk",
+            "name": "rapsolja",
+            "key": "rapsolja",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "jordnötter",
+            "key": "jordnotter",
+            "common": false
+          },
+          {
+            "amount": "1 påse (ca 150 g)",
+            "name": "dumlekola",
+            "key": "dumle",
+            "common": false
+          },
+          {
+            "amount": "2 dl",
+            "name": "mini-marshmallows",
+            "key": "marshmallows",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Smält chokladen i mikrovågsugn eller över vattenbad.",
+      "Rör ner några droppar rapsolja i den smälta chokladen och blanda väl.",
+      "Klipp dumlekolorna i två delar.",
+      "Blanda ner dumlekolorna, jordnötterna och mini-marshmallowsen i chokladen.",
+      "Häll blandningen i en form klädd med bakplåtspapper.",
+      "Ställ formen i kylen tills smeten stelnat.",
+      "Skär i bitar och njut."
+    ],
+    "stepsFromSource": true,
+    "tips": "Ha i torkade hallon eller jordgubbar för något extra.",
+    "notes": "",
+    "image": "/bilder/4b1e780c3e.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "",
+    "sourceName": "inklistrat",
+    "addedAt": "2026-08-31T14:40:39"
+  },
+  {
+    "id": "c17914a7a5",
+    "title": "Glutenfria kladdkakemuffins",
+    "summary": "Små glutenfria kladdkakemuffins med kladdig kärna och smak av brynt smör.",
+    "servings": "ca 4 muffins",
+    "totalTimeMinutes": 30,
+    "activeTimeMinutes": 20,
+    "oven": "200 grader",
+    "difficulty": "Lätt",
+    "tags": [
+      "glutenfritt",
+      "choklad",
+      "muffins",
+      "kladdkaka",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "50 g",
+            "name": "brynt smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "0,25 dl",
+            "name": "sirap",
+            "key": "sirap",
+            "common": true
+          },
+          {
+            "amount": "0,75 dl",
+            "name": "glutenfri mjölmix",
+            "key": "mjolmix",
+            "common": false
+          },
+          {
+            "amount": "2,5 msk",
+            "name": "kakao",
+            "key": "kakao",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          },
+          {
+            "amount": "",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "1",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 200 grader.",
+      "Bryn smöret i en kastrull och vispa i botten samtidigt så det inte bränns.",
+      "Ta av smöret från värmen när det fått en gyllenbrun färg och doftar nötigt.",
+      "Rör ner socker, sirap, glutenfri mjölmix, kakao, vaniljsocker och salt i smöret.",
+      "Rör till sist ner ägget och blanda tills smeten precis gått ihop.",
+      "Fördela smeten i muffinsformar på en plåt.",
+      "Grädda i 6 minuter, eller håll koll tills muffinsens mitt precis inte är helt gräddad.",
+      "Låt muffinsen svalna innan servering."
+    ],
+    "stepsFromSource": true,
+    "tips": "Smakar allra godast efter en natt i kylen.",
+    "notes": "",
+    "image": "/bilder/c17914a7a5.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "inklistrat",
+    "addedAt": "2026-08-31T14:26:07",
+    "editedAt": "2026-08-31T14:27:05"
+  },
+  {
+    "id": "2c0cd011a9",
+    "title": "Drömkolabitar i långpanna",
+    "summary": "Spröd vaniljbotten av krossade vaniljdrömmar, len vaniljkola och mjölkchoklad med flingsalt, bakat i långpanna utan ugn.",
+    "servings": "40 bitar",
+    "totalTimeMinutes": 240,
+    "activeTimeMinutes": 50,
+    "oven": "",
+    "difficulty": "Medel",
+    "tags": [
+      "kola",
+      "godis",
+      "choklad",
+      "utan ugn",
+      "festligt"
+    ],
+    "ingredients": [
+      {
+        "group": "Botten",
+        "items": [
+          {
+            "amount": "450 g",
+            "name": "vaniljdrömmar",
+            "key": "vaniljdrom",
+            "common": false
+          },
+          {
+            "amount": "100 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Vaniljkola",
+        "items": [
+          {
+            "amount": "300 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "4 dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "ljus sirap",
+            "key": "sirap",
+            "common": false
+          },
+          {
+            "amount": "6 dl",
+            "name": "vispgrädde",
+            "key": "gradde",
+            "common": false
+          },
+          {
+            "amount": "1 msk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Garnering",
+        "items": [
+          {
+            "amount": "300 g",
+            "name": "mjölkchoklad",
+            "key": "mjolkchoklad",
+            "common": false
+          },
+          {
+            "amount": "1 msk",
+            "name": "neutral olja",
+            "key": "olja",
+            "common": true
+          },
+          {
+            "amount": "",
+            "name": "flingsalt",
+            "key": "flingsalt",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Klä en långpanna, 30×40 cm, med bakplåtspapper så att det även täcker kanterna.",
+      "Mixa vaniljdrömmarna till ett fint smul i en matberedare.",
+      "Smält smöret till botten och blanda med kaksmulet till en formbar massa.",
+      "Tryck ut kakmassan i ett jämnt lager i botten på formen.",
+      "Blanda alla ingredienser till kolan i en tjockbottnad kastrull.",
+      "Koka blandningen på medelvärme i 30–45 minuter, eller tills den når 123 grader, och rör om då och då.",
+      "Sakna du termometer kan du göra kulprovet istället.",
+      "Häll kolasmeten över botten i formen och ställ in i kylskåpet tills kolan är helt kall.",
+      "Grovhacka mjölkchokladen och smält den i en skål över vattenbad.",
+      "Rör ner oljan i chokladen till en jämn och blank smet.",
+      "Bred ut chokladen över den kalla kolan och strö över flingsalt.",
+      "Låt formen stå i kylskåpet i ca 30 minuter.",
+      "Lyft upp kolaplattan ur formen med hjälp av bakplåtspappret och skär i bitar.",
+      "Förvara bitarna i en lufttät burk i kylskåpet."
+    ],
+    "stepsFromSource": true,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/2c0cd011a9.jpg",
+    "imageIsDrawing": false,
+    "sourceUrl": "https://mykitchenstories.se/dromkolabitar-i-langpanna/",
+    "sourceName": "mykitchenstories.se",
+    "addedAt": "2026-08-31T14:15:25"
+  },
+  {
+    "id": "1df1dfd74e",
+    "title": "Chokladbollar",
+    "summary": "Klassiska havregrynsbollar med kakao, som rullas i kokos eller pärlsocker.",
+    "servings": "ca 15 bollar",
+    "totalTimeMinutes": 20,
+    "activeTimeMinutes": 20,
+    "oven": "",
+    "difficulty": "Lätt",
+    "tags": [
+      "choklad",
+      "utan ugn",
+      "snabbt",
+      "klassiker",
+      "barnvänligt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "100 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "2-3 msk",
+            "name": "kakao",
+            "key": "kakao",
+            "common": true
+          },
+          {
+            "amount": "4 msk",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "3 dl",
+            "name": "havregryn",
+            "key": "havregryn",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "vatten",
+            "key": "vatten",
+            "common": true
+          },
+          {
+            "amount": "2 msk",
+            "name": "kokos eller pärlsocker, till rullning",
+            "key": "kokos",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Blanda smör, kakao, socker, havregryn och vatten till en smidig smet.",
+      "Forma smeten till bollar i valfri storlek.",
+      "Rulla bollarna i kokos eller pärlsocker."
+    ],
+    "stepsFromSource": true,
+    "tips": "",
+    "notes": "",
+    "image": "/bilder/1df1dfd74e.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "foto",
+    "addedAt": "2026-08-31T11:48:14",
+    "editedAt": "2026-08-31T11:49:18"
+  },
+  {
+    "id": "90df323268",
+    "title": "Kladdkakemuffins",
+    "summary": "Klassiska kladdiga chokladmuffins med smält smör som vänds i sist av allt.",
+    "servings": "12-14 st",
+    "totalTimeMinutes": 25,
+    "activeTimeMinutes": 15,
+    "oven": "200 grader, mitten av ugnen",
+    "difficulty": "Lätt",
+    "tags": [
+      "choklad",
+      "kladdkaka",
+      "muffins",
+      "snabbt",
+      "kaka"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "100 g",
+            "name": "smör, smält",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "2 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "2½ dl",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "5 msk",
+            "name": "kakao",
+            "key": "kakao",
+            "common": true
+          },
+          {
+            "amount": "2 tsk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          },
+          {
+            "amount": "½ tsk",
+            "name": "bakpulver",
+            "key": "bakpulver",
+            "common": true
+          },
+          {
+            "amount": "1 krm",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "2 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 200 grader.",
+      "Smält smöret och låt det svalna något.",
+      "Vispa ägg och socker pösigt.",
+      "Blanda kakao, vaniljsocker, bakpulver, salt och mjöl och rör ner i ägg- och sockersmeten.",
+      "Häll i det smälta smöret sist av allt och rör ihop till en jämn smet.",
+      "Fördela smeten i muffinsformar.",
+      "Grädda i ugnen i 5-10 minuter, till muffinsen fått fast yta men fortfarande är kladdiga inuti."
+    ],
+    "stepsFromSource": true,
+    "tips": "Håll koll mot slutet av gräddningen – muffinsen ska vara kladdiga i mitten, så det är bättre att ta ut dem för tidigt än för sent.",
+    "image": "/bilder/90df323268.svg",
+    "imageIsDrawing": true,
+    "sourceUrl": "",
+    "sourceName": "foto",
+    "addedAt": "2026-08-31T11:06:49",
+    "notes": "Tryck i en dumle i mitten på varje muffins och täck med lite mer smet, för en extra surprise!",
+    "editedAt": "2026-09-02T13:33:36"
+  },
+  {
+    "id": "0bdc710048",
+    "title": "Proteinrik hallon-cheesecake",
+    "summary": "En proteinrik cheesecake med keso, grekisk yoghurt och färska hallon, gräddad i ugn.",
+    "servings": "1 liten form, ca 6-8 bitar",
+    "totalTimeMinutes": 230,
+    "activeTimeMinutes": 15,
+    "oven": "175 grader, mitten av ugnen",
+    "difficulty": "Lätt",
+    "tags": [
+      "protein",
+      "cheesecake",
+      "hallon",
+      "hälsosamt",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "2 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "1 ¼ dl",
+            "name": "keso",
+            "key": "keso",
+            "common": false
+          },
+          {
+            "amount": "2 ½ dl",
+            "name": "grekisk yoghurt",
+            "key": "yoghurt",
+            "common": false
+          },
+          {
+            "amount": "4 msk",
+            "name": "lönnsirap",
+            "key": "lonnsirap",
+            "common": false
+          },
+          {
+            "amount": "1 msk",
+            "name": "majsstärkelse",
+            "key": "majsstarkelse",
+            "common": true
+          },
+          {
+            "amount": "1 förpackning, ca 150 g",
+            "name": "hallon",
+            "key": "hallon",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 175 grader och klä en liten ugnsform, ca 20 cm, med bakplåtspapper.",
+      "Mixa ägg, keso, grekisk yoghurt, lönnsirap och majsstärkelse slätt i en mixer eller matberedare.",
+      "Häll smeten i formen.",
+      "Fördela hallonen jämnt över smeten.",
+      "Grädda i mitten av ugnen i 35-40 minuter, tills kanterna stelnat och mitten fortfarande har ett svagt skimmer.",
+      "Låt cheesecaken svalna helt i formen och ställ den sedan kallt minst 3 timmar, gärna över natten, innan servering."
+    ],
+    "tips": "Byt gärna ut hallonen mot andra bär efter säsong.",
+    "image": "/bilder/0bdc710048.jpg",
+    "sourceUrl": "https://www.instagram.com/p/DZwm8eeM1E7/",
+    "sourceName": "instagram.com",
+    "addedAt": "2026-08-30T21:49:08",
+    "stepsFromSource": false
+  },
+  {
+    "id": "50a9e754bd",
+    "title": "Proteinrik sommarostkaka med blåbär",
+    "summary": "En mättande, proteinrik ostkaka bakad i ugn med färska blåbär, perfekt som frukost eller fika",
+    "servings": "1-2 portioner",
+    "totalTimeMinutes": 45,
+    "activeTimeMinutes": 10,
+    "oven": "200 grader, mitten av ugnen",
+    "difficulty": "Lätt",
+    "tags": [
+      "ostkaka",
+      "protein",
+      "frukost",
+      "blåbär",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "2 dl",
+            "name": "keso mini eller keso vanilj",
+            "key": "keso",
+            "common": false
+          },
+          {
+            "amount": "0,5 dl",
+            "name": "vassleprotein vanilj",
+            "key": "proteinpulver",
+            "common": false
+          },
+          {
+            "amount": "2 st",
+            "name": "stora ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "1",
+            "name": "nypa salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "0,5 dl",
+            "name": "havregryn",
+            "key": "havregryn",
+            "common": true
+          },
+          {
+            "amount": "efter smak",
+            "name": "färska blåbär (frysta funkar också, blanda dem först med majsstärkelse eller potatismjöl)",
+            "key": "blabar",
+            "common": false
+          },
+          {
+            "amount": "efter smak",
+            "name": "sötströ",
+            "key": "sotstro",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Mixa alla ingredienser (utom blåbär och sötströ) till en slät smet.",
+      "Klä en mindre matlåda i glas med bakplåtspapper och häll i smeten.",
+      "Tryck ner blåbären i smeten och strö över sötströ.",
+      "Sätt in i mitten av ugnen på 200 grader i ca 30 minuter, tills ostkakan fått fin färg och är klar.",
+      "Låt svalna helt innan servering, gärna i kylen några timmar eller över natten."
+    ],
+    "tips": "Servera med skivad banan, citronzest, honung eller fibersirap och färska blåbär. Gott även med grädde och sylt för en lyxigare fika.",
+    "image": "/bilder/50a9e754bd.jpg",
+    "sourceUrl": "https://www.tiktok.com/@sannaskost/video/7665341421309742358?lang=sv-SE",
+    "sourceName": "tiktok.com",
+    "addedAt": "2026-08-30T21:26:06",
+    "stepsFromSource": true
+  },
+  {
+    "id": "738e67dc23",
+    "title": "Fudgy brownies med spruckyta",
+    "summary": "Klassiska sega chokladbrownies med en blank, sprucken yta och kladdig kärna",
+    "servings": "1 form, 20x20 cm (ca 16 bitar)",
+    "totalTimeMinutes": 45,
+    "activeTimeMinutes": 15,
+    "oven": "180 grader",
+    "difficulty": "Lätt",
+    "tags": [
+      "choklad",
+      "brownies",
+      "kladdkaka",
+      "festligt",
+      "snabbt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "2 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "1 st",
+            "name": "äggula",
+            "key": "aggula",
+            "common": true
+          },
+          {
+            "amount": "200 g",
+            "name": "florsocker",
+            "key": "florsocker",
+            "common": false
+          },
+          {
+            "amount": "50 g",
+            "name": "ljust farinsocker",
+            "key": "farinsocker",
+            "common": false
+          },
+          {
+            "amount": "115 g",
+            "name": "smör, smält",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "45 g",
+            "name": "neutral olja",
+            "key": "olja",
+            "common": true
+          },
+          {
+            "amount": "1/2 tsk",
+            "name": "snabbkaffepulver (valfritt)",
+            "key": "kaffepulver",
+            "common": false
+          },
+          {
+            "amount": "45 g",
+            "name": "kakao",
+            "key": "kakao",
+            "common": true
+          },
+          {
+            "amount": "85 g",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "90 g",
+            "name": "chokladknappar",
+            "key": "chokladknappar",
+            "common": false
+          },
+          {
+            "amount": "efter smak",
+            "name": "hackad choklad till garnering (valfritt)",
+            "key": "choklad",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Vispa ägg, äggula, florsocker och farinsocker kraftigt i en bunke i ca 2 minuter tills smeten är slät och sockret helt löst upp - det är detta som ger den blanka, spruckna ytan.",
+      "Tillsätt det smälta smöret, oljan och kaffepulvret och vispa tills allt är väl blandat.",
+      "Tillsätt vetemjöl, kakao och chokladknappar och vänd försiktigt ner med en slickepott utan att röra för mycket.",
+      "Häll smeten i en bakplatspapperskladd form, 20x20 cm, och grädda i 180 grader i 25-30 minuter, tills kanterna satt sig men mitten fortfarande känns lite mjuk.",
+      "Låt kallna helt innan du skär i bitar, eller ställ i kylen 2-3 timmar för bästa konsistens."
+    ],
+    "tips": "Undvik att grädda för länge - underbakat är bättre än överbakat för riktigt kladdiga brownies.",
+    "image": "/bilder/738e67dc23.jpg",
+    "sourceUrl": "https://www.tiktok.com/@mycozybakesbyabyz/video/7657529226190523666?lang=sv-SE",
+    "sourceName": "tiktok.com",
+    "addedAt": "2026-08-30T20:43:59",
+    "stepsFromSource": true
+  },
+  {
+    "id": "874c27ebe5",
+    "title": "Citronkaka",
+    "summary": "En maffig, saftig citronkaka bakad med både mandelmjöl och vetemjöl, toppad med citronglasyr.",
+    "servings": "1 brödform, ca 2 liter",
+    "totalTimeMinutes": 60,
+    "activeTimeMinutes": 20,
+    "oven": "175 grader (eller 150 grader varmluft), mitten av ugnen",
+    "difficulty": "Medel",
+    "tags": [
+      "citron",
+      "kaka",
+      "fika",
+      "klassiker",
+      "bakverk"
+    ],
+    "ingredients": [
+      {
+        "group": "Kaka",
+        "items": [
+          {
+            "amount": "225 g",
+            "name": "smör, rumsvarmt",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "3 dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "2 st",
+            "name": "citron, finrivet skal",
+            "key": "citron",
+            "common": false
+          },
+          {
+            "amount": "4 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "3 dl",
+            "name": "mandelmjöl",
+            "key": "mandelmjol",
+            "common": false
+          },
+          {
+            "amount": "1 tsk",
+            "name": "bakpulver",
+            "key": "bakpulver",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          },
+          {
+            "amount": "½ tsk",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "3 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "standardmjölk",
+            "key": "mjolk",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Glasyr",
+        "items": [
+          {
+            "amount": "3 dl",
+            "name": "florsocker",
+            "key": "florsocker",
+            "common": false
+          },
+          {
+            "amount": "2-3 msk",
+            "name": "citronsaft",
+            "key": "citron",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 175 grader eller 150 grader varmluft.",
+      "Smörj en brödform, ca 2 liter.",
+      "Vispa smör, socker och finrivet citronskal på hög hastighet i cirka 3 minuter. Tillsätt äggen ett i taget under fortsatt vispning.",
+      "Blanda ihop alla torra ingredienser i en bunke. Vänd ner i smeten tillsammans med mjölken och blanda väl.",
+      "Häll smeten i formen och grädda mitt i ugnen i ca 1 timme. Känn efter med en provsticka att kakan är genomgräddad, den ska komma ut torr. Testa gärna även med en termometer, kakan är klar vid 95-97 grader innertemperatur.",
+      "Gör glasyren: häll florsocker i en bunke och tillsätt pressad citronsaft. Vispa till en slät kräm.",
+      "Bred glasyren över den kalla citronkakan."
+    ],
+    "tips": "Använd hela citronen - skalet i kakan och saften i glasyren. Garnera gärna med blåa vallmofrön.",
+    "image": "/bilder/874c27ebe5.jpg",
+    "sourceUrl": "https://www.arla.se/recept/citronkaka/",
+    "sourceName": "arla.se",
+    "addedAt": "2026-08-30T20:39:15",
+    "stepsFromSource": true
+  },
+  {
+    "id": "5ab7b8fc20",
+    "title": "Lemon Loaf med citronglasyr",
+    "summary": "Saftig citronkaka med smörig smak, doppad i klassisk citronglasyr direkt ur ugnen",
+    "servings": "1 form, ca 20 cm avlång kakform",
+    "totalTimeMinutes": 80,
+    "activeTimeMinutes": 20,
+    "oven": "170 grader",
+    "difficulty": "Medel",
+    "tags": [
+      "citron",
+      "kaka",
+      "glasyr",
+      "bakverk",
+      "festligt"
+    ],
+    "ingredients": [
+      {
+        "group": "Lemon loaf",
+        "items": [
+          {
+            "amount": "275 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "3 dl",
+            "name": "socker",
+            "key": "socker",
+            "common": true
+          },
+          {
+            "amount": "zest av 3 st",
+            "name": "citroner",
+            "key": "citron",
+            "common": false
+          },
+          {
+            "amount": "3 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "4,5 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "bakpulver",
+            "key": "bakpulver",
+            "common": true
+          },
+          {
+            "amount": "0,5 tsk",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "grädde",
+            "key": "gradde",
+            "common": false
+          }
+        ]
+      },
+      {
+        "group": "Glasyr",
+        "items": [
+          {
+            "amount": "2 dl",
+            "name": "florsocker",
+            "key": "florsocker",
+            "common": false
+          },
+          {
+            "amount": "saft av 1-2 st",
+            "name": "citroner",
+            "key": "citron",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 170 grader.",
+      "Klä en avlång kakform med bakplåtspapper.",
+      "Vispa smör och socker pösigt tillsammans med citronzesten.",
+      "Tillsätt äggen ett i taget och vispa väl mellan varje.",
+      "Blanda mjöl, bakpulver och salt i en separat skål.",
+      "Vänd ner mjölblandningen och vaniljsockret i smeten tillsammans med grädden till en jämn smet.",
+      "Häll smeten i formen och grädda i mitten av ugnen i ca 40-60 minuter, tills en provstickan kommer torr ut.",
+      "Blanda florsocker med citronsaft till en glasyr.",
+      "Koka upp glasyren och häll den över kakan direkt när den kommit ut ur ugnen."
+    ],
+    "tips": "Prova kakan med en provsticka efter 40 minuter och täck gärna med folie om den bränns för snabbt på ytan.",
+    "image": "/bilder/5ab7b8fc20.jpg",
+    "sourceUrl": "https://www.tiktok.com/@colferamanda/video/7669444513823198486?lang=sv-SE",
+    "sourceName": "tiktok.com",
+    "addedAt": "2026-08-30T20:35:11",
+    "stepsFromSource": true
+  },
+  {
+    "id": "d8459e82d1",
+    "title": "Kanelbullar",
+    "summary": "Klassiska, saftiga kanelbullar bakade med riktigt smör och mjölk.",
+    "servings": "20 bullar",
+    "totalTimeMinutes": 90,
+    "activeTimeMinutes": 30,
+    "oven": "225 grader (eller 200 grader varmluft), mitten av ugnen",
+    "difficulty": "Medel",
+    "tags": [
+      "bullar",
+      "kanel",
+      "jäst",
+      "klassiker",
+      "fika"
+    ],
+    "ingredients": [
+      {
+        "group": "Deg",
+        "items": [
+          {
+            "amount": "75 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "7½ dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "½ dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "2 krm",
+            "name": "salt",
+            "key": "salt",
+            "common": true
+          },
+          {
+            "amount": "25 g",
+            "name": "jäst",
+            "key": "jast",
+            "common": false
+          },
+          {
+            "amount": "2½ dl",
+            "name": "standardmjölk",
+            "key": "mjolk",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Fyllning",
+        "items": [
+          {
+            "amount": "75 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "2½ msk",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "1½ msk",
+            "name": "malen kanel",
+            "key": "kanel",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Garnering",
+        "items": [
+          {
+            "amount": "1",
+            "name": "uppvispat ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "",
+            "name": "pärlsocker",
+            "key": "parlsocker",
+            "common": false
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Skär smöret i tunna skivor och lägg det i en bunke.",
+      "Tillsätt 7 dl av mjölet (spara ½ dl till utbakningen), socker, salt och jästen delad i mindre bitar.",
+      "Värm mjölken till max 37 grader och rör ner i mjölblandningen.",
+      "Arbeta degen blank och smidig.",
+      "Låt degen jäsa övertäckt i ca 30 minuter.",
+      "Sätt ugnen på 225 grader eller 200 grader varmluft.",
+      "Ta upp degen på mjölat bakbord och knåda den lätt.",
+      "Kavla ut degen till en rektangulär platta, ca 25x50 cm.",
+      "Bred ut smöret på degplattan och strö över socker och kanel.",
+      "Rulla ihop degen från långsida till långsida till en rulle.",
+      "Skär rullen i 20 bitar, ca 2 cm breda.",
+      "Ställ bitarna med snittytan upp i pappersformar.",
+      "Jäs kanelbullarna under bakduk i ca 30 minuter.",
+      "Pensla kanelbullarna med ägg och strö över pärlsocker.",
+      "Grädda i mitten av ugnen i 6–8 minuter, eller tills bullarna är gyllene och har en innertemperatur mellan 94–98 grader.",
+      "Låt kanelbullarna svalna på galler under bakduk."
+    ],
+    "tips": "Lägg ordentligt med tid på att knåda degen tills den blir sammanhållen och elastisk, då håller bullarna ihop och blir fluffiga. Använd sytråd för att skära upp bullarna med perfekt snittyta.",
+    "image": "/bilder/d8459e82d1.jpg",
+    "sourceUrl": "https://www.arla.se/recept/kanelbullar/",
+    "sourceName": "arla.se",
+    "addedAt": "2026-08-30T20:22:09",
+    "stepsFromSource": true
+  },
+  {
+    "id": "aa96cf7420",
+    "title": "Kladdkaka",
+    "summary": "En supersnabb och kladdig klassisk kladdkaka som rörs ihop direkt i kastrullen.",
+    "servings": "1 form, 24 cm",
+    "totalTimeMinutes": 30,
+    "activeTimeMinutes": 15,
+    "oven": "175 grader (eller 160 varmluft), mitten av ugnen",
+    "difficulty": "Lätt",
+    "tags": [
+      "kladdkaka",
+      "choklad",
+      "kaka",
+      "snabbt",
+      "klassiker",
+      "festligt"
+    ],
+    "ingredients": [
+      {
+        "group": "",
+        "items": [
+          {
+            "amount": "100 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          },
+          {
+            "amount": "2½ dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          },
+          {
+            "amount": "2 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "1 dl",
+            "name": "vetemjöl",
+            "key": "vetemjol",
+            "common": true
+          },
+          {
+            "amount": "3 msk",
+            "name": "kakao",
+            "key": "kakao",
+            "common": true
+          },
+          {
+            "amount": "1 tsk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Garnering",
+        "items": [
+          {
+            "amount": "efter smak",
+            "name": "florsocker",
+            "key": "florsocker",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Till servering",
+        "items": [
+          {
+            "amount": "3 dl",
+            "name": "vispgrädde",
+            "key": "gradde",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 175 grader eller 160 grader varmluft.",
+      "Smält smöret i en kastrull och lyft av den från plattan.",
+      "Rör ner socker och ägg och blanda väl.",
+      "Rör ner övriga ingredienser så att allt blir väl blandat.",
+      "Häll smeten i en smord och bröad form med löstagbar kant, ca 24 cm i diameter.",
+      "Grädda mitt i ugnen ca 15 minuter, tills kanterna är fasta och torra och ytan har fått en tunn skorpa medan mitten fortfarande är dallrig och kladdig.",
+      "Låt kakan kallna innan du pudrar över florsocker.",
+      "Servera med vispad grädde, glass, frukt eller bär."
+    ],
+    "tips": "Om du inte vill ha vispgrädde till kakan är det också gott med glass och frukt.",
+    "image": "/bilder/aa96cf7420.jpg",
+    "sourceUrl": "https://www.arla.se/recept/kladdkaka/",
+    "sourceName": "arla.se",
+    "addedAt": "2026-08-30T20:22:05",
+    "stepsFromSource": true
+  },
+  {
+    "id": "e560d53bab",
+    "title": "Cheesecake",
+    "summary": "En klassisk amerikansk cheesecake med kexbotten, krämig färskostfyllning och toppning av gräddfil och hallon.",
+    "servings": "1 form, 24 cm",
+    "totalTimeMinutes": 65,
+    "activeTimeMinutes": 15,
+    "oven": "175 grader eller 160 grader varmluft, mitten av ugnen",
+    "difficulty": "Medel",
+    "tags": [
+      "cheesecake",
+      "festligt",
+      "klassiker",
+      "bär",
+      "kaka"
+    ],
+    "ingredients": [
+      {
+        "group": "Botten",
+        "items": [
+          {
+            "amount": "15 st",
+            "name": "digestivekex",
+            "key": "digestivekex",
+            "common": false
+          },
+          {
+            "amount": "75 g",
+            "name": "smör",
+            "key": "smor",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Fyllning",
+        "items": [
+          {
+            "amount": "400 g",
+            "name": "färskost naturell",
+            "key": "farskost",
+            "common": false
+          },
+          {
+            "amount": "2 st",
+            "name": "ägg",
+            "key": "agg",
+            "common": true
+          },
+          {
+            "amount": "½ dl",
+            "name": "strösocker",
+            "key": "strosocker",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Topping",
+        "items": [
+          {
+            "amount": "3 dl",
+            "name": "gräddfil",
+            "key": "graddfil",
+            "common": true
+          },
+          {
+            "amount": "½ dl",
+            "name": "florsocker",
+            "key": "florsocker",
+            "common": true
+          },
+          {
+            "amount": "1 msk",
+            "name": "vaniljsocker",
+            "key": "vaniljsocker",
+            "common": true
+          }
+        ]
+      },
+      {
+        "group": "Till servering",
+        "items": [
+          {
+            "amount": "125 g",
+            "name": "hallon",
+            "key": "hallon",
+            "common": false
+          },
+          {
+            "amount": "2 msk",
+            "name": "florsocker",
+            "key": "florsocker",
+            "common": true
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Sätt ugnen på 175 grader eller 160 grader varmluft.",
+      "Krossa eller mixa kexen fint.",
+      "Smält smöret och rör ner smulorna.",
+      "Tryck ut smulblandningen i botten på en form med löstagbar kant, ca 24 cm i diameter.",
+      "Grädda i mitten av ugnen ca 5 minuter.",
+      "Vispa ihop färskost, ägg och strösocker till en jämn smet.",
+      "Häll smeten i formen.",
+      "Grädda i 20–25 minuter och låt kakan svalna ca 10 minuter.",
+      "Rör ihop gräddfil, florsocker och vaniljsocker och bred ut det på kakan.",
+      "Grädda i ytterligare 10–15 minuter, tills kanterna är fasta men mitten fortfarande dallrar lite lätt.",
+      "Låt kakan kallna helt.",
+      "Rör ihop hallon och florsocker och servera till cheesecaken."
+    ],
+    "tips": "Du kan testa om kakan är klar med en termometer, den ska visa 70–75 grader i mitten. Toppa gärna med bär i säsong istället för hallon.",
+    "image": "/bilder/e560d53bab.jpg",
+    "sourceUrl": "https://www.arla.se/recept/cheesecake/",
+    "sourceName": "arla.se",
+    "addedAt": "2026-08-30T20:22:03",
+    "stepsFromSource": true
+  }
+]

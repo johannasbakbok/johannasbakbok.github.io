@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title data-gast="Bakboken – Johannas receptsamling">Bakboken – min egen receptsamling</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-lage="gast">
+
+<header class="topp">
+  <p class="kicker"><span class="endast-agare">min receptsamling</span><span class="endast-gast">Johannas receptsamling</span></p>
+  <h1>Bakboken</h1>
+</header>
+
+<main>
+
+  <section class="panel lagg-till endast-agare">
+    <h2 class="panel-rubrik">Lägg till ett recept</h2>
+    <form id="lank-form" class="lank-rad" autocomplete="off">
+      <input id="lank" type="text" inputmode="url" placeholder="https://www.tiktok.com/@… eller länk till valfritt recept">
+      <button type="submit" id="hamta-knapp">Hämta receptet</button>
+    </form>
+    <div class="andra-satt">
+      <button type="button" class="satt-knapp" id="vaxla-text">Klistra in recepttext</button>
+      <button type="button" class="satt-knapp" id="valj-foto">Ladda upp foto av recept</button>
+      <input type="file" id="foto" accept="image/jpeg,image/png,image/webp" hidden>
+    </div>
+    <div id="text-ruta" hidden>
+      <textarea id="text" rows="6" placeholder="Klistra in recepttexten här – bra om sidan kräver inloggning eller blockerar robotar."></textarea>
+      <button type="button" id="text-knapp">Läs av texten</button>
+    </div>
+    <p id="status" class="status" hidden></p>
+  </section>
+
+  <div class="lager">
+
+    <aside class="sido">
+      <div class="filter-grupp">
+        <span class="filter-etikett">Sugen på</span>
+        <input id="sok" class="sok" type="search" placeholder="Sök – namn, ingrediens eller känsla">
+      </div>
+
+      <div class="filter-grupp">
+        <span class="filter-etikett">Har inte hemma</span>
+
+        <label class="kryss">
+          <input type="checkbox" id="bara-vanliga">
+          <span>Bara recept med sånt jag troligen har hemma</span>
+        </label>
+
+        <div id="uteslut-grupp" hidden>
+          <input id="uteslut-sok" class="sok liten" type="search"
+                 placeholder="Sök ingrediens …" autocomplete="off">
+          <div id="uteslut" class="chips"></div>
+        </div>
+      </div>
+
+      <button type="button" class="text-lank" id="rensa" hidden>Rensa filter</button>
+    </aside>
+
+    <div class="samling">
+      <p id="antal" class="antal"></p>
+      <div id="rutnat" class="rutnat"></div>
+      <p id="tomt" class="tomt" hidden></p>
+    </div>
+
+  </div>
+
+</main>
+
+<p id="delning" class="delning endast-agare" hidden></p>
+<footer class="fot"><span class="endast-agare">Bakboken · min egna lilla hemsida</span><span class="endast-gast">Bakboken · Johannas lilla hemsida</span></footer>
+
+<div id="overlay" class="overlay" hidden>
+  <div class="overlay-inre" role="dialog" aria-modal="true">
+    <div class="overlay-knappar">
+      <button type="button" id="andra" class="endast-agare" title="Ändra receptet">Ändra</button>
+      <button type="button" id="skriv-ut" title="Skriv ut receptet">Skriv ut</button>
+      <button type="button" id="ta-bort" class="endast-agare" title="Ta bort receptet">Ta bort</button>
+      <button type="button" id="stang" title="Stäng">Stäng</button>
+      <button type="button" id="spara" class="spara-knapp" title="Spara ändringarna" hidden>Spara</button>
+      <button type="button" id="avbryt" title="Avbryt utan att spara" hidden>Avbryt</button>
+    </div>
+    <p id="red-status" class="status" hidden></p>
+    <article id="dokument" class="dokument"></article>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
